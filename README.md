@@ -1,2 +1,10 @@
+<<<<<<< HEAD
 # MyFirstRepo
 This repo will keep the practical data
+=======
+# hello-world
+Hello World repository for Git tutorial
+This is an example repository for the Git tutoial on https://www.w3schools.com
+
+This repository is built step by step in the tutorial.
+>>>>>>> 5bcc974 (First Release of Hello World!)
